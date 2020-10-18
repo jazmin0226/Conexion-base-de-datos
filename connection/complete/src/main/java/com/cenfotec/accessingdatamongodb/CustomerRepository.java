@@ -1,4 +1,4 @@
-package com.example.accessingdatamongodb;
+package com.cenfotec.accessingdatamongodb;
 
 import java.util.List;
 
